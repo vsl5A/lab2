@@ -1,0 +1,47 @@
+.logo1 {  border: 4pt solid #ff0000;
+    border-radius: 8pt;  
+}
+.about {
+    color:#aa3c41;
+    text-shadow: 2pt 3pt 0 #0000ff;
+    
+}
+
+.big{
+    font-size: 40pt;
+    width: 60pt;
+    margin: 0;
+
+    }
+    .big2{
+        font-size: 20pt;
+    }
+.gachchan {
+    font-weight: 500;
+    text-decoration :underline #000 solid;
+}
+.mau {
+    color: #aa3c41;
+}
+.gan_red {
+    color: #ff2d0f;
+}
+.gan_xanh {
+    color: #0d06ee;
+}
+.mau_xam {
+    border: 01pt solid #dfe2e5;
+    font-size: 10pt;
+    text-align: center;
+}
+.xanh_xam {
+    color: #629194;
+    text-shadow: 1pt 1pt 2pt #606060;
+    font-weight: bold;
+    text-decoration: none;
+}
+td {
+    width: 50%;
+    padding: 0;
+}
+

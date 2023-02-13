@@ -1,0 +1,48 @@
+.all {
+    background-color: #a7a09a;
+   
+}
+
+.total{
+    width: 750px;
+    margin: 0 auto;
+}
+.header{font-size: 30px;
+    font-weight: bold;
+    background-color: #dddddd;
+    height: 50px;
+    width: 740px;
+    display: table-cell;
+    vertical-align: middle;
+    }
+.option {
+    display: flex;
+    background-color:#cc9999 ;
+    height: 40px;
+}
+.tach_op{
+    margin-right: 10px;
+    color: #3f27e1;
+    
+}
+.mauxanh{
+    color: #3f27e1;
+}
+.can_le{
+    padding-left: 12px;
+}
+.col {
+    display: flex;
+    width: 100%;
+}
+.col2{
+    width: 230px;
+    background-color: #9999cc;
+}
+.col1{
+width: 520px;
+background-color: #99cc99;
+}
+.footer {
+    background-color:#cccc99;
+}
